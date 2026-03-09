@@ -330,7 +330,7 @@ void key()
 ```
 ## Output screen shots of proteus  :
  
-![img]()
+![img](https://github.com/Girithickrohan/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/blob/main/ex05.png)
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
